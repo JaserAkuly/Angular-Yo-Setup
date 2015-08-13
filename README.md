@@ -1,12 +1,5 @@
-# mytodo
+#Building An Angular Environment
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
+This project is an application skeleton for a typical AngularJS web app.  
 
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+For more information on AngularJS please check out http://angularjs.org/
